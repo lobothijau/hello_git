@@ -1,3 +1,4 @@
-void main {
+void main() {
+    // Mencetak selamat datang
     print("Hello Dart!");
 }
